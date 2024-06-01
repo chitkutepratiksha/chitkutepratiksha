@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **MySQL ,Java**
+- 💬 Ask me about **MySQL, Java**
 
 - 📫 How to reach me **pratikshachitkute.11@gmail.com**
 
